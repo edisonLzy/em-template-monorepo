@@ -1,2 +1,3 @@
-# em-template-lerna
-lerna  项目模版
+# em-template-monorepo
+
+- 🚗 quick build monorepo project for your self
