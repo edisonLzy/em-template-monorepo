@@ -1,6 +1,11 @@
 {
   "inquirer": [
     {
+      "name": "name",
+      "type": "input",
+      "message": "请输入名称"
+    },
+    {
       "name": "description",
       "type": "input",
       "message": "请输入描述"
