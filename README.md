@@ -1,3 +1,3 @@
-# em-template-monorepo
+# <%= name %>
 
-- 🚗 quick build monorepo project for your self
+- <%= description %>

@@ -1,19 +1,14 @@
 {
   "inquirer": [
     {
-      "name": "name",
-      "type": "input",
-      "message": "请输入插件名称"
-    },
-    {
       "name": "description",
       "type": "input",
-      "message": "请输入插件描述"
+      "message": "请输入描述"
     },
     {
       "name": "keywords",
       "type": "input",
-      "message": "请输入插件关键字"
+      "message": "请输入关键字"
     }
   ]
 }
